@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Troubleshooting
-nav_order: 7
+title: Troubleshooting Guide
+parent: Reference & Troubleshooting
+nav_order: 1
 ---
 
 # Troubleshooting Guide
@@ -801,8 +802,8 @@ Escalate issues when:
 
 ## Related Documentation
 
-- [Input Streams](input-streams) - Input stream configuration
-- [Transcoders](transcoders) - Transcoder setup and management
-- [Packagers](packagers) - Packaging configuration
-- [Origin Servers](origin-servers) - Origin deployment
-- [Best Practices](best-practices) - Optimization guidelines
+- [Input Streams](../components/input-streams/) - Input stream configuration
+- [Transcoders](../components/transcoders/) - Transcoder setup and management
+- [Packagers](../components/packagers/) - Packaging configuration
+- [Origin Servers](../components/origin-servers/) - Origin deployment
+- [Best Practices](../guides/best-practices/) - Optimization guidelines

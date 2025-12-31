@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Transcoders
-nav_order: 3
+parent: Platform Components
+nav_order: 2
+has_children: false
 ---
 
-# Transcoders
+# ⚙️ Transcoders
 {: .no_toc }
 
 Transcoders transform input streams into multiple quality renditions for adaptive bitrate streaming.
@@ -353,7 +355,7 @@ ls -lh /opt/es/media/transcoder/
 
 ## Related Documentation
 
-- [Input Streams](input-streams) - Configure source streams
-- [Packagers](packagers) - Package transcoded output
-- [Best Practices](best-practices) - Optimization guidelines
-- [Troubleshooting](troubleshooting) - Resolve issues
+- [Input Streams](../input-streams/) - Configure source streams
+- [Packagers](../packagers/) - Package transcoded output
+- [Best Practices](../../guides/best-practices/) - Optimization guidelines
+- [Troubleshooting](../../reference/troubleshooting/) - Resolve issues

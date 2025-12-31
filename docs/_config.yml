@@ -44,6 +44,33 @@ heading_anchors: true
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
 
+# Enable callouts
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  note:
+    title: Note
+    color: purple
+  tip:
+    title: Tip
+    color: green
+  warning:
+    title: Warning
+    color: red
+  danger:
+    title: Danger
+    color: red
+  success:
+    title: Success
+    color: green
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
 paginate: 6
 paginate_path: /page/:num/
 

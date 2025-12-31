@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Packagers
-nav_order: 4
+parent: Platform Components
+nav_order: 3
+has_children: false
 ---
 
-# Packagers
+# 📦 Packagers
 {: .no_toc }
 
 Packagers transform transcoded video into streaming formats for delivery to end-users.
@@ -576,7 +578,7 @@ Set up alerts for:
 
 ## Related Documentation
 
-- [Input Streams](input-streams) - Configure source streams
-- [Transcoders](transcoders) - Set up transcoding
-- [Origin Servers](origin-servers) - Deploy content delivery
-- [Troubleshooting](troubleshooting) - Resolve issues
+- [Input Streams](../input-streams/) - Configure source streams
+- [Transcoders](../transcoders/) - Set up transcoding
+- [Origin Servers](../origin-servers/) - Deploy content delivery
+- [Troubleshooting](../../reference/troubleshooting/) - Resolve issues
