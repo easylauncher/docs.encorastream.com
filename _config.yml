@@ -1,12 +1,17 @@
 remote_theme: shivamb/just-the-docs
 
-title: EncoraStream
+# Product Configuration (White-labeled platform)
+product_name: Encora Stream
+product_website: https://encorastream.com
+partner_name: vLive
+
+title: Encora Stream
 highlighter: rouge
 permalink: /:title/
 year: 2020
-description: EncoraStream
+description: Encora Stream - Live Streaming Platform Documentation
 url: https://docs.encorastream.com
-logo: "/assets/images/encorastream-logo.png"
+logo: "/assets/images/encorastream-logo.svg"
 encoding: UTF-8
 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -19,14 +24,14 @@ search_tokenizer_separator: /[\s/]+/
 
 # Aux links for the upper right navigation
 aux_links:
-  "EncoraStream":
-    - "//docs.encorastream.com"
+  "Encora Stream":
+    - "//encorastream.com"
 
 # Credit content
 credits_content: "Used Just the Docs"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020-2023. Managed by an <a href=\"https://encorastream.com\" target=\"_blank\" rel=\"noopener noreferrer\">EncoraStream .</a>"
+footer_content: "Copyright &copy; 2020-2024. Managed by <a href=\"https://encorastream.com\" target=\"_blank\" rel=\"noopener noreferrer\">Encora Stream</a>"
 
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
