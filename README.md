@@ -15,6 +15,12 @@ bundle install
 bundle exec jekyll serve
 ```
 
+- If we encounter SSL issues on remote theme:
+
+```bash
+RUBYOPT="-r ./disable_ssl.rb" bundle exec jekyll serve --livereload
+```
+
 Visit http://localhost:4000 to view the documentation.
 
 ## Contributing
