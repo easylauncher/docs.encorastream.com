@@ -1,6 +1,5 @@
-remote_theme: shivamb/just-the-docs
-# For local testing, if remote_theme fails due to SSL, use:
-# theme: just-the-docs
+# remote_theme: shivamb/just-the-docs
+theme: just-the-docs
 
 # Product Configuration (White-labeled platform)
 product_name: Encora Stream
@@ -10,8 +9,8 @@ partner_name: vLive
 title: Encora Stream
 highlighter: rouge
 permalink: /:title/
-year: 2020
-description: Encora Stream - Live Streaming Platform Documentation
+year: 2025
+description: Encora Stream - Streaming Platform Documentation
 url: https://docs.encorastream.com
 logo: "/assets/images/encorastream-logo.svg"
 encoding: UTF-8
@@ -30,10 +29,10 @@ aux_links:
     - "//encorastream.com"
 
 # Credit content
-credits_content: "Used Just the Docs"
+credits_content: "Encora Stream"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020-2024. Managed by <a href=\"https://encorastream.com\" target=\"_blank\" rel=\"noopener noreferrer\">Encora Stream</a>"
+footer_content: "Copyright &copy; 2024-2030. Managed by <a href=\"https://encorastream.com\" target=\"_blank\" rel=\"noopener noreferrer\">Encora Stream</a>"
 
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
@@ -51,6 +50,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
   
 compress_html:
 clippings: all

@@ -13,4 +13,4 @@ The `encorastream-logo.png` file should be placed in this directory.
 
 ### Note
 
-This is a white-labeled platform. Replace the logo with your organization's branding as needed.
+Replace the logo with your organization's branding as needed.
