@@ -1,5 +1,5 @@
-# remote_theme: shivamb/just-the-docs
-theme: just-the-docs
+remote_theme: shivamb/just-the-docs
+# theme: just-the-docs
 
 # Product Configuration (White-labeled platform)
 product_name: Encora Stream
@@ -15,7 +15,7 @@ url: https://docs.encorastream.com
 logo: "/assets/images/encorastream-logo.svg"
 encoding: UTF-8
 
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "assets/"]
 
 # Enable or disable the site search
 search_enabled: true
