@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Encora Stream - Live Streaming Platform Documentation"
+description: "Test - Encora Stream - Live Streaming Platform Documentation"
 permalink: /
 ---
 
-# Encora Stream Documentation
+# {{ site.product_name }} Documentation
 {: .fs-9 }
 
-Welcome to the Encora Stream platform documentation. Encora Stream is a comprehensive live streaming solution powered by {{ site.partner_name }} technology.
+Welcome to the {{ site.product_name }} platform documentation. {{ site.product_name }} is a comprehensive live streaming solution powered by {{ site.partner_name }} technology.
 {: .fs-6 .fw-300 }
 
 [Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -18,7 +18,7 @@ Welcome to the Encora Stream platform documentation. Encora Stream is a comprehe
 
 ## Overview
 
-Encora Stream is a white-labeled live streaming platform that enables you to deliver high-quality video content to your audience across multiple devices and platforms. The platform supports industry-standard protocols including HLS, DASH, and AES encryption with optional DRM protection.
+{{ site.product_name }} is a white-labeled live streaming platform that enables you to deliver high-quality video content to your audience across multiple devices and platforms. The platform supports industry-standard protocols including HLS, DASH, and AES encryption with optional DRM protection.
 
 ### Key Features
 

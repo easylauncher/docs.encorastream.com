@@ -7,7 +7,7 @@ nav_order: 6
 # Deployment & Best Practices
 {: .no_toc }
 
-Guidelines for optimal deployment and operation of the Encora Stream platform.
+Guidelines for optimal deployment and operation of the {{ site.product_name }} platform.
 {: .fs-6 .fw-300 }
 
 ## Table of contents

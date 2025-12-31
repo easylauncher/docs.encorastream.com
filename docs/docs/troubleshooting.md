@@ -7,7 +7,7 @@ nav_order: 7
 # Troubleshooting Guide
 {: .no_toc }
 
-Solutions for common issues in the Encora Stream platform.
+Solutions for common issues in the {{ site.product_name }} platform.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -20,7 +20,7 @@ Solutions for common issues in the Encora Stream platform.
 
 ## Overview
 
-This troubleshooting guide provides systematic approaches to diagnose and resolve common issues in the Encora Stream platform. For each issue, we provide possible causes, debugging steps, and resolution procedures.
+This troubleshooting guide provides systematic approaches to diagnose and resolve common issues in the {{ site.product_name }} platform. For each issue, we provide possible causes, debugging steps, and resolution procedures.
 
 ## Common Issues Reference
 

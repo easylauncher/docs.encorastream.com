@@ -20,7 +20,7 @@ Packagers transform transcoded video into streaming formats for delivery to end-
 
 ## Overview
 
-Packagers are essential components that convert transcoded video renditions into streaming formats suitable for different devices and platforms. The Encora Stream platform supports three main packaging formats:
+Packagers are essential components that convert transcoded video renditions into streaming formats suitable for different devices and platforms. The {{ site.product_name }} platform supports three main packaging formats:
 
 - **AES Packager**: For AES-128 encrypted streaming
 - **DASH Packager**: For MPEG-DASH streaming with optional DRM

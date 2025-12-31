@@ -4,7 +4,7 @@ remote_theme: shivamb/just-the-docs
 # Product Configuration (White-labeled platform)
 product_name: Encora Stream
 product_website: https://encorastream.com
-partner_name: vLive-Test
+partner_name: vLive
 
 title: Encora Stream
 highlighter: rouge
@@ -26,7 +26,7 @@ search_tokenizer_separator: /[\s/]+/
 # Aux links for the upper right navigation
 aux_links:
   "Encora Stream":
-    - "//encorastream.com"
+    - "https://encorastream.com"
 
 # Credit content
 credits_content: "Encora Stream"
@@ -34,7 +34,7 @@ credits_content: "Encora Stream"
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2024-2030. Managed by <a href=\"https://encorastream.com\" target=\"_blank\" rel=\"noopener noreferrer\">Encora Stream</a>"
 
-
+  
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
 # Supports true (default) or false/nil
