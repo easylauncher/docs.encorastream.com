@@ -16,7 +16,7 @@ url: https://docs.encorastream.com
 logo: "/assets/images/encorastream-logo.svg"
 encoding: UTF-8
 
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "assets/images/README.md"]
 
 # Enable or disable the site search
 search_enabled: true
