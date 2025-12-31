@@ -787,7 +787,7 @@ Escalate issues when:
 
 ### External Resources
 
-- **vLive Documentation**: Partner platform documentation
+- **{{ site.partner_name }} Documentation**: Partner platform documentation
 - **DRM Provider Support**: For encryption issues
 - **Encoder Vendor Support**: For input stream problems
 

@@ -4,7 +4,7 @@ remote_theme: shivamb/just-the-docs
 # Product Configuration (White-labeled platform)
 product_name: Encora Stream
 product_website: https://encorastream.com
-partner_name: vLive
+partner_name: vLive-Test
 
 title: Encora Stream
 highlighter: rouge

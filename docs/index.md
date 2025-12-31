@@ -9,11 +9,10 @@ permalink: /
 # Encora Stream Documentation
 {: .fs-9 }
 
-Welcome to the Encora Stream platform documentation. Encora Stream is a comprehensive live streaming solution powered by vLive technology.
+Welcome to the Encora Stream platform documentation. Encora Stream is a comprehensive live streaming solution powered by {{ site.partner_name }} technology.
 {: .fs-6 .fw-300 }
 
 [Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/easylauncher/docs.encorastream.com){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -67,4 +66,4 @@ For technical support and questions, please refer to our [Troubleshooting Guide]
 
 ---
 
-*Powered by vLive Technology*
+*Powered by {{ site.partner_name }} Technology*
