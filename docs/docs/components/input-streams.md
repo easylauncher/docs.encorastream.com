@@ -131,4 +131,4 @@ Input streams connect to the rest of your streaming pipeline:
 - [Configuration Guide](configuration/) - Detailed setup instructions
 - [Testing Guide](testing/) - Verification methods
 - [Best Practices](best-practices/) - Optimization tips
-- [Troubleshooting](../../reference/troubleshooting/#input-stream-issues) - Common issues
+- [Troubleshooting](../../reference/troubleshooting/#input-stream-not-working) - Common issues

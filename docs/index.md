@@ -71,7 +71,7 @@ Find solutions to common issues and detailed reference materials.
 
 ## Support
 
-For technical support and questions, please refer to our [Troubleshooting Guide](docs/troubleshooting) or contact the support team.
+For technical support and questions, please refer to our [Troubleshooting Guide](docs/reference/troubleshooting/) or contact the support team.
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Getting Started
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 # 🚀 Getting Started
@@ -220,7 +220,7 @@ Now that you have your first stream running:
 
 1. **📚 Review [Best Practices](../guides/best-practices/)** for optimization tips
 2. **🔍 Bookmark [Troubleshooting Guide](../reference/troubleshooting/)** for quick issue resolution
-3. **🔒 Set up [DRM Protection](../components/packagers/drm-setup/)** for premium content
+3. **🔒 Set up DRM Protection** for premium content (see [Packagers documentation](../components/packagers/#drm-configuration))
 4. **📊 Configure monitoring** to track stream health
 
 ---
