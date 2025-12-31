@@ -245,6 +245,6 @@ ffplay udp://@239.1.1.1:5000
 
 ## Related Documentation
 
-- [Transcoders]({% link docs/transcoders.md %}) - Configure transcoding for input streams
-- [Packagers]({% link docs/packagers.md %}) - Package transcoded content
-- [Troubleshooting]({% link docs/troubleshooting.md %}) - Resolve common issues
+- [Transcoders](transcoders) - Configure transcoding for input streams
+- [Packagers](packagers) - Package transcoded content
+- [Troubleshooting](troubleshooting) - Resolve common issues

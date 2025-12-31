@@ -801,8 +801,8 @@ Escalate issues when:
 
 ## Related Documentation
 
-- [Input Streams]({% link docs/input-streams.md %}) - Input stream configuration
-- [Transcoders]({% link docs/transcoders.md %}) - Transcoder setup and management
-- [Packagers]({% link docs/packagers.md %}) - Packaging configuration
-- [Origin Servers]({% link docs/origin-servers.md %}) - Origin deployment
-- [Best Practices]({% link docs/best-practices.md %}) - Optimization guidelines
+- [Input Streams](input-streams) - Input stream configuration
+- [Transcoders](transcoders) - Transcoder setup and management
+- [Packagers](packagers) - Packaging configuration
+- [Origin Servers](origin-servers) - Origin deployment
+- [Best Practices](best-practices) - Optimization guidelines

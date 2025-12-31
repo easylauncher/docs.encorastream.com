@@ -54,16 +54,16 @@ Store and serve packaged media segments to CDNs and client devices.
 
 ## Documentation Structure
 
-- [Input Streams]({% link docs/input-streams.md %}) - Configure video sources
-- [Transcoders]({% link docs/transcoders.md %}) - Set up video transcoding
-- [Packagers]({% link docs/packagers.md %}) - Configure stream packaging
-- [Origin Servers]({% link docs/origin-servers.md %}) - Deploy content delivery
-- [Best Practices]({% link docs/best-practices.md %}) - Optimization guidelines
-- [Troubleshooting]({% link docs/troubleshooting.md %}) - Common issues and solutions
+- [Input Streams](docs/input-streams) - Configure video sources
+- [Transcoders](docs/transcoders) - Set up video transcoding
+- [Packagers](docs/packagers) - Configure stream packaging
+- [Origin Servers](docs/origin-servers) - Deploy content delivery
+- [Best Practices](docs/best-practices) - Optimization guidelines
+- [Troubleshooting](docs/troubleshooting) - Common issues and solutions
 
 ## Support
 
-For technical support and questions, please refer to our [Troubleshooting Guide]({% link docs/troubleshooting.md %}) or contact the support team.
+For technical support and questions, please refer to our [Troubleshooting Guide](docs/troubleshooting) or contact the support team.
 
 ---
 

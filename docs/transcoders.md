@@ -353,7 +353,7 @@ ls -lh /opt/es/media/transcoder/
 
 ## Related Documentation
 
-- [Input Streams]({% link docs/input-streams.md %}) - Configure source streams
-- [Packagers]({% link docs/packagers.md %}) - Package transcoded output
-- [Best Practices]({% link docs/best-practices.md %}) - Optimization guidelines
-- [Troubleshooting]({% link docs/troubleshooting.md %}) - Resolve issues
+- [Input Streams](input-streams) - Configure source streams
+- [Packagers](packagers) - Package transcoded output
+- [Best Practices](best-practices) - Optimization guidelines
+- [Troubleshooting](troubleshooting) - Resolve issues
