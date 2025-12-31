@@ -5,6 +5,7 @@ remote_theme: shivamb/just-the-docs
 product_name: Encora Stream
 product_website: https://encorastream.com
 partner_name: vLive
+ga_tracking: G-F81ECG06SQ
 
 title: Encora Stream
 highlighter: rouge
@@ -42,7 +43,7 @@ heading_anchors: true
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
-    
+
 paginate: 6
 paginate_path: /page/:num/
 
@@ -53,12 +54,11 @@ plugins:
   - jekyll-remote-theme
   
 compress_html:
-clippings: all
-comments: all
-endings: all
-startings: []
-blanklines: false
-profile: false
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
 
-# Google Analytics Tracking
-ga_tracking: G-F81ECG06SQ
+
