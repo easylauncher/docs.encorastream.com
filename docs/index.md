@@ -53,12 +53,21 @@ Store and serve packaged media segments to CDNs and client devices.
 
 ## Documentation Structure
 
-- [Input Streams](docs/input-streams) - Configure video sources
-- [Transcoders](docs/transcoders) - Set up video transcoding
-- [Packagers](docs/packagers) - Configure stream packaging
-- [Origin Servers](docs/origin-servers) - Deploy content delivery
-- [Best Practices](docs/best-practices) - Optimization guidelines
-- [Troubleshooting](docs/troubleshooting) - Common issues and solutions
+### 🚀 Getting Started
+Start your streaming journey with our quick start guide and platform overview.
+
+### 🔧 Platform Components
+Learn about the core components that power your streaming infrastructure:
+- **📥 Input Streams** - Configure video sources from encoders
+- **⚙️ Transcoders** - Transform streams into multiple quality renditions
+- **📦 Packagers** - Package content for HLS, DASH, and AES delivery
+- **🌐 Origin Servers** - Deploy content delivery infrastructure
+
+### 📚 Guides & Best Practices
+Optimize your deployment with expert guidance and operational excellence tips.
+
+### 🔍 Reference & Troubleshooting
+Find solutions to common issues and detailed reference materials.
 
 ## Support
 
