@@ -1,0 +1,13 @@
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "jekyll-remote-theme"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "just-the-docs"
+gem "base64"
+gem "logger"
+gem "webrick"
+gem "bigdecimal"
+gem "jekyll-paginate"
+gem "kramdown-parser-gfm"

@@ -1,1 +1,25 @@
-tmp
+# Jekyll defaults
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Ruby/Bundler
+.bundle/
+vendor/
+Gemfile.lock
+*.gem
+*.gemspec
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Node (if used)
+node_modules/
+package-lock.json
+
+# Environment/Temporary
+.env
+tmp/
+.temp/

@@ -1,4 +1,6 @@
 remote_theme: shivamb/just-the-docs
+# For local testing, if remote_theme fails due to SSL, use:
+# theme: just-the-docs
 
 # Product Configuration (White-labeled platform)
 product_name: Encora Stream
@@ -48,6 +50,7 @@ paginate_path: /page/:num/
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
   
 compress_html:
 clippings: all
