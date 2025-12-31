@@ -112,7 +112,7 @@ Content was created based on:
 - Jekyll theme: Just the Docs (remote theme)
 - Total documentation: ~82 KB of markdown content
 - Number of pages: 7 (home + 6 doc pages)
-- Internal links: Using Jekyll `{% link %}` syntax for reliability
+- Internal links: Now using standard markdown relative links
 - Format support documented: AES, DASH, HLS
 
 ## Validation Needed

@@ -576,7 +576,7 @@ Set up alerts for:
 
 ## Related Documentation
 
-- [Input Streams]({% link docs/input-streams.md %}) - Configure source streams
-- [Transcoders]({% link docs/transcoders.md %}) - Set up transcoding
-- [Origin Servers]({% link docs/origin-servers.md %}) - Deploy content delivery
-- [Troubleshooting]({% link docs/troubleshooting.md %}) - Resolve issues
+- [Input Streams](input-streams) - Configure source streams
+- [Transcoders](transcoders) - Set up transcoding
+- [Origin Servers](origin-servers) - Deploy content delivery
+- [Troubleshooting](troubleshooting) - Resolve issues

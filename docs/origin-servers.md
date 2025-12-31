@@ -511,8 +511,8 @@ Set up notifications for:
 
 ## Related Documentation
 
-- [Input Streams]({% link docs/input-streams.md %}) - Configure source streams
-- [Transcoders]({% link docs/transcoders.md %}) - Set up transcoding
-- [Packagers]({% link docs/packagers.md %}) - Configure stream packaging
-- [Best Practices]({% link docs/best-practices.md %}) - Optimization guidelines
-- [Troubleshooting]({% link docs/troubleshooting.md %}) - Resolve common issues
+- [Input Streams](input-streams) - Configure source streams
+- [Transcoders](transcoders) - Set up transcoding
+- [Packagers](packagers) - Configure stream packaging
+- [Best Practices](best-practices) - Optimization guidelines
+- [Troubleshooting](troubleshooting) - Resolve common issues

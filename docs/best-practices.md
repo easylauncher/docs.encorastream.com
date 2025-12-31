@@ -489,8 +489,8 @@ Use this checklist before launching new streams or making significant changes:
 
 ## Related Documentation
 
-- [Input Streams]({% link docs/input-streams.md %}) - Configure source streams
-- [Transcoders]({% link docs/transcoders.md %}) - Set up transcoding
-- [Packagers]({% link docs/packagers.md %}) - Configure stream packaging
-- [Origin Servers]({% link docs/origin-servers.md %}) - Deploy content delivery
-- [Troubleshooting]({% link docs/troubleshooting.md %}) - Resolve common issues
+- [Input Streams](input-streams) - Configure source streams
+- [Transcoders](transcoders) - Set up transcoding
+- [Packagers](packagers) - Configure stream packaging
+- [Origin Servers](origin-servers) - Deploy content delivery
+- [Troubleshooting](troubleshooting) - Resolve common issues
