@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Origin Servers
-nav_order: 5
+parent: Platform Components
+nav_order: 4
+has_children: false
 ---
 
-# Origin Servers
+# 🌐 Origin Servers
 {: .no_toc }
 
 Origin Servers host and deliver packaged streaming content to CDNs and client devices.
@@ -511,8 +513,8 @@ Set up notifications for:
 
 ## Related Documentation
 
-- [Input Streams](input-streams) - Configure source streams
-- [Transcoders](transcoders) - Set up transcoding
-- [Packagers](packagers) - Configure stream packaging
-- [Best Practices](best-practices) - Optimization guidelines
-- [Troubleshooting](troubleshooting) - Resolve common issues
+- [Input Streams](../input-streams/) - Configure source streams
+- [Transcoders](../transcoders/) - Set up transcoding
+- [Packagers](../packagers/) - Configure stream packaging
+- [Best Practices](../../guides/best-practices/) - Optimization guidelines
+- [Troubleshooting](../../reference/troubleshooting/) - Resolve common issues

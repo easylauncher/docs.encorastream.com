@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Best Practices
-nav_order: 6
+title: Deployment & Best Practices
+parent: Guides & Best Practices
+nav_order: 1
 ---
 
 # Deployment & Best Practices
@@ -489,8 +490,8 @@ Use this checklist before launching new streams or making significant changes:
 
 ## Related Documentation
 
-- [Input Streams](input-streams) - Configure source streams
-- [Transcoders](transcoders) - Set up transcoding
-- [Packagers](packagers) - Configure stream packaging
-- [Origin Servers](origin-servers) - Deploy content delivery
-- [Troubleshooting](troubleshooting) - Resolve common issues
+- [Input Streams](../components/input-streams/) - Configure source streams
+- [Transcoders](../components/transcoders/) - Set up transcoding
+- [Packagers](../components/packagers/) - Configure stream packaging
+- [Origin Servers](../components/origin-servers/) - Deploy content delivery
+- [Troubleshooting](../reference/troubleshooting/) - Resolve common issues
