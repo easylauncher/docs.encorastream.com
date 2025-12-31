@@ -1,0 +1,56 @@
+remote_theme: shivamb/just-the-docs
+
+title: EncoraStream
+highlighter: rouge
+permalink: /:title/
+year: 2020
+description: EncoraStream
+url: https://docs.encorastream.com
+logo: "/assets/images/encorastream-logo.png"
+encoding: UTF-8
+
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
+# Enable or disable the site search
+search_enabled: true
+
+# Set the search token separator for hyphenated-word search:
+search_tokenizer_separator: /[\s/]+/
+
+# Aux links for the upper right navigation
+aux_links:
+  "EncoraStream":
+    - "//docs.encorastream.com"
+
+# Credit content
+credits_content: "Used Just the Docs"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020-2023. Managed by an <a href=\"https://encorastream.com\" target=\"_blank\" rel=\"noopener noreferrer\">EncoraStream .</a>"
+
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+# Supports true (default) or false/nil
+heading_anchors: true
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
+    
+paginate: 6
+paginate_path: /page/:num/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
+compress_html:
+clippings: all
+comments: all
+endings: all
+startings: []
+blanklines: false
+profile: false
+
+# Google Analytics Tracking
+ga_tracking: G-F81ECG06SQ
