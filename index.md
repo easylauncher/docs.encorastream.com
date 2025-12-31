@@ -1,65 +1,70 @@
 ---
 layout: default
-title: सर्व सक्षम अभियान
+title: Home
 nav_order: 1
-description: "सर्व सक्षम अभियान"
+description: "Encora Stream - Live Streaming Platform Documentation"
 permalink: /
 ---
 
-# सर्व सक्षम अभियान eLearn सर्टिफिकेट प्रोग्राम
+# Encora Stream Documentation
 {: .fs-9 }
 
+Welcome to the Encora Stream platform documentation. Encora Stream is a comprehensive live streaming solution powered by vLive technology.
+{: .fs-6 .fw-300 }
 
-![alt text](/assets/images/ssa-banner-01.png "सर्व सक्षम अभियान")
-
+[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View on GitHub](https://github.com/easylauncher/docs.encorastream.com){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## सर्व सक्षम अभियान eLearn सर्टिफिकेट प्रोग्राम
+## Overview
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSerp026qcnPnZ4dp_PY-D3syQ86w_qsUehbAdqGXw7935Mc3A/viewform" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" target="_blank" rel="noopener noreferrer">रजिस्टर करें</a>
+Encora Stream is a white-labeled live streaming platform that enables you to deliver high-quality video content to your audience across multiple devices and platforms. The platform supports industry-standard protocols including HLS, DASH, and AES encryption with optional DRM protection.
 
+### Key Features
 
-इस गहन ऑनलाइन शिक्षण कार्यक्रम के साथ अपने पत्रकारीय और भाषा कौशल को परिवर्तित करें. वार्म-अप अभ्यास, अभ्यास सेट, वीडियो पाठ्यक्रम और ऑनलाइन स्ट्रीमिंग के साथ अपने संचार को स्पष्ट और प्रभावी बनाएं.
+- **Multi-Protocol Support**: Stream content using HLS, DASH, and AES protocols
+- **Adaptive Bitrate Streaming**: Automatic quality adjustment based on viewer bandwidth
+- **DRM Protection**: Secure your premium content with industry-standard DRM
+- **Multi-Device Compatibility**: Reach viewers on web, mobile, tablets, and set-top boxes
+- **Real-Time Monitoring**: Track stream health and performance in real-time
+- **Scalable Architecture**: Handle varying loads with transcoding and packaging components
 
+## Platform Components
 
-अपने समय की सबसे चुनौतीपूर्ण समस्या का समाधान करें - भारत के संचार कौशल को निखारने के लिए, गुणवत्ता पूर्ण पत्रकारिता के लिए, ग्राउंड जर्नलिज्म को जीवित करने के लिए, युवाओं में संचार और सूचना की समझ विकसित करने के लिए हमने अगली पीढ़ी में पत्रकारिता और जनसंचार के लिए कौशल प्रमाणन मंच का निर्माण किया है. सर्व सक्षम अभियान उन लाखों युवाओं को अवसर देता है आधुनिक संवाद शैली, सूचना, जनसंपर्क और जनसंचार की बुनियादी जानकारी अर्जित करने का. ये अभियान आपको अवसर देता है अपना आपको दूसरों से एक कदम आगे ले जाने का.
+### Input Streams
+Configure and manage live video input sources from encoders, supporting UDP and RTMP protocols.
 
+### Transcoders
+Transform input streams into multiple quality renditions for adaptive bitrate streaming.
 
-हमारे साथ ऐसे भरोसेमंद और दक्ष पत्रकार हैं जिन्होंने अपने समय की सबसे कठिन और रोमांचक समस्याओं को सुलझाने का काम किया. सर्व सक्षम अभियान में आपको उन दिग्गजों का मार्गदर्शन मिलेगा जिन्होंने नए रास्तों का निर्माण किया है. हम आपको मौका देते हैं एक ऐसे अभियान से जुड़ने का जो ‘नई सोच, नई उम्मीद’ को जन्म देगा.
+### Packagers
+Package transcoded streams into HLS, DASH, and AES formats with optional DRM encryption.
 
+### Origin Servers
+Store and serve packaged media segments to CDNs and client devices.
 
-### पर्सनल कोच
+## Getting Started
 
-| ![पर्सनल कोच](/assets/images/ssa-coach-96px.png "पर्सनल कोच") | आपकी जरूरतों और क्षमताओं के अनुरूप SSA कोच आपको पर्सनल ट्रेनिंग देगा. SSA आपके लिए खोलता है असीमित संभावनाओं के द्वार! |
+1. **Configure Input Stream**: Set up your video source with proper Content ID and source URL
+2. **Create Transcoder**: Define ABR profiles and renditions for your content
+3. **Set Up Packagers**: Configure HLS, DASH, and/or AES packagers with appropriate settings
+4. **Deploy Origin Server**: Enable content delivery from origin servers
+5. **Test Playback**: Verify streaming across target devices and platforms
 
+## Documentation Structure
 
-### लाइव ऑनलाइन क्लासेस
+- [Input Streams]({% link docs/input-streams.md %}) - Configure video sources
+- [Transcoders]({% link docs/transcoders.md %}) - Set up video transcoding
+- [Packagers]({% link docs/packagers.md %}) - Configure stream packaging
+- [Origin Servers]({% link docs/origin-servers.md %}) - Deploy content delivery
+- [Best Practices]({% link docs/best-practices.md %}) - Optimization guidelines
+- [Troubleshooting]({% link docs/troubleshooting.md %}) - Common issues and solutions
 
-| ![लाइव ऑनलाइन क्लासेस](/assets/images/ssa-online-classes-96px.png "लाइव ऑनलाइन क्लासेस") | आनलाइन कक्षाएं जहां आप अपने शिक्षक को लाइव देख सकते हैं. पत्रकारिता, सूचना और संचार की बुनियादी बातों को सीख सकते हैं. आपके पास है संचार और सूचनाओं को समझने का शानदार मौका! |
+## Support
 
+For technical support and questions, please refer to our [Troubleshooting Guide]({% link docs/troubleshooting.md %}) or contact the support team.
 
-### वर्कआउट
+---
 
-| ![वर्कआउट](/assets/images/ssa-workout-96px.png "वर्कआउट") | प्रोजेक्ट और असाइंनमेंट के माध्यम से संचार तंत्र को समझने और बुनियादी बातों को सीखने का मौका. |
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSerp026qcnPnZ4dp_PY-D3syQ86w_qsUehbAdqGXw7935Mc3A/viewform" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" target="_blank" rel="noopener noreferrer">रजिस्टर करें</a>
-
-
-## प्रायोजक
-
-<a href="https://rajniti.online/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/logo-rajniti-online.png" /></a>
-<a href="https://easylauncher.net/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/logo-easylauncher.png" /></a>
-<a href="https://apyl.com/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/logo-apyl.jpg" /></a>
-
-
-### संपर्क करें
-
-- **वेबसाइट** ssa.rajniti.online
-- **लोकेशन** लखनऊ
-- **ईमेल** RAJNITI.ON@GMAIL.COM
-- **टेलीग्राम और व्हाट्सनंबर**
-
+*Powered by vLive Technology*
