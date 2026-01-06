@@ -100,7 +100,7 @@ This troubleshooting guide provides systematic approaches to diagnose and resolv
    - Verify URL is accessible
    - Check if segments are being created
 
-9. **Escalate if Still Not Fixed**
+8. **Escalate if Still Not Fixed**
    - Document all troubleshooting steps taken
    - Capture relevant error messages
    - Note which components were checked
@@ -307,7 +307,7 @@ This troubleshooting guide provides systematic approaches to diagnose and resolv
    - Restart packagers (Disable → Enable)
    - Wait for segments to generate
 
-19. **Escalate if Not Resolved**
+9. **Escalate if Not Resolved**
    - Provide Content ID used
    - Include URL that returns 404
    - Document component statuses
