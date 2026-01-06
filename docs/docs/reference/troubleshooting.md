@@ -73,7 +73,6 @@ This troubleshooting guide provides systematic approaches to diagnose and resolv
 3. **Test Input Stream with VLC Player**
    - Open VLC → Media → Open Network Stream
    - Enter the input stream URL
-      - Example:- udp://@239.6.6.187:6187 
    - Verify playback works smoothly
 
 4. **Check Transcoder Status**
@@ -144,29 +143,23 @@ This troubleshooting guide provides systematic approaches to diagnose and resolv
    - Check network utilization
    - Verify VLAN configuration
 
-3. **Test Input Stream with VLC Player**
-   - Open VLC → Media → Open Network Stream
-   - Enter the input stream URL
-      - Example:- udp://@239.6.6.187:6187 
-   - Verify playback works smoothly
-
-4. **Check Encoder Settings**
+3. **Check Encoder Settings**
    - Verify encoder output settings are correct
    - Check encoder health and logs
    - Ensure encoder network connection is stable
    - Verify encoder bitrate is appropriate
 
-5. **Restart Transcoder and Packager**
+4. **Restart Transcoder and Packager**
    - Disable transcoder → Wait 10 seconds → Enable
    - Disable packager → Wait 10 seconds → Enable
    - Monitor video quality after restart
 
-6. **Test on Multiple Devices**
+5. **Test on Multiple Devices**
    - Try different players or devices
    - Check if issue is player-specific
    - Verify problem exists across all renditions
 
-7. **Escalate if Not Fixed**
+6. **Escalate if Not Fixed**
    - Provide network diagnostics
    - Include encoder information
    - Document when issue started
@@ -272,9 +265,6 @@ This troubleshooting guide provides systematic approaches to diagnose and resolv
    - Confirm stream is active
 
 3. **Test Input Stream with VLC**
-   - Open VLC → Media → Open Network Stream
-   - Enter the input stream URL
-      - Example:- udp://@239.6.6.187:6187 
    - Verify encoder is sending stream
    - Check stream stability
 
@@ -304,7 +294,7 @@ This troubleshooting guide provides systematic approaches to diagnose and resolv
 
 8. **Restart Components**
    - Restart transcoder (Disable → Enable)
-   - Restart packagers (Disable → Enable)
+   - Restart packager (Disable → Enable)
    - Wait for segments to generate
 
 9. **Escalate if Not Resolved**
